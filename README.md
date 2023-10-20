@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm EneRgYCZ</h1>
+<h1 align="center">Hi 👋, I'm EneRgY_CZ</h1>
 <h3 align="center">I am a third-year AI student at University of Groningen</h3>
 
 
 <p align="center">
-  - 🌱 I’m currently learning Flutter & Laravel
+  - 🌱 I’m currently learning Flutter, Laravel & Rust
 </p>
 
 
