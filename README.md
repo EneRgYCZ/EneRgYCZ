@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EneRgY_CZ</h1>
+<h1 align="center">Hi 👋, I'm EneRgYCZ</h1>
 <h3 align="center">I am a third-year AI student at University of Groningen</h3>
 
 
