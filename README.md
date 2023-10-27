@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EneRgYCZ</h1>
-<h3 align="center">I am a third-year AI student at University of Groningen</h3>
+<h3 align="center">I am a 3-year AI student at University of Groningen</h3>
 
 
 <p align="center">
