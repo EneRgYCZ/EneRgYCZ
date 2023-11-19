@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  - 🌱 I’m currently learning Flutter and Laravel 
+  - 🌱 I’m currently learning Flutter & Laravel 
 </p>
 
 
