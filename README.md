@@ -34,7 +34,5 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 </div>
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=EneRgYCZ&theme=solarized-dark" alt="energycz" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EneRgYCZ&layout=compact&theme=solarized-dark" alt="energycz"/> </p>
 
