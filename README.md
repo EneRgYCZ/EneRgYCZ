@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  - 🌱 I’m currently learning Laravel 
+  - 🌱 I’m currently learning Laravel and anything I found interesing
 </p>
 
 
