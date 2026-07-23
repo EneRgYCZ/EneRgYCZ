@@ -35,5 +35,5 @@
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats-pied-eight-93.vercel.app/api/top-langs/?username=EneRgYCZ&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter+notebook" />
+<img src="https://github-readme-stats-pied-eight-93.vercel.app/api/top-langs/?username=EneRgYCZ&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter+notebook,lua" />
 </p>
