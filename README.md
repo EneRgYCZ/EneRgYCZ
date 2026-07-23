@@ -33,3 +33,7 @@
   <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 </div>
+
+<p align="center">
+<img src="https://github-readme-stats-pied-eight-93.vercel.app/api/top-langs/?username=EneRgYCZ&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter+notebook" />
+</p>
